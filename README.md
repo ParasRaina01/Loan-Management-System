@@ -23,6 +23,3 @@ python manage.py migrate
 python manage.py runserver
 Step 3: Finally, open the browser and go to http://127.0.0.1:8000/
 ```
-## For admin panel:
-```Username: admin```
-```Password: adminl12345```
